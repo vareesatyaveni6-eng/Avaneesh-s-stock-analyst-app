@@ -1,0 +1,6 @@
+{
+  "name": "Stock Analysis",
+  "description": "Stock technical and practical analysis with global search and local database support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
